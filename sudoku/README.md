@@ -1,0 +1,1 @@
+for improper sudokus with more than one solution, the second version also has the ability to guess
