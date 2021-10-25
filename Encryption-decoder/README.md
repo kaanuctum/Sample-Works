@@ -24,3 +24,4 @@ After the first itteration of selecting possible pairs of encrypted letters, the
   auf blaettern des baumes <br/>
   den wir das leben zu nennen pflegen***
 
+The project took around a week, and in the end I got second place, and someone doing it manually got to be the first, but it was a nice exercise and a little brain-teaser.
