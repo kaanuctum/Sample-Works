@@ -5,12 +5,12 @@ The main premise of the riddle was that a german text was encrypted, by swapping
 
 The given input for the riddle was the following:
 
-  ***Bklmkgcqik jrk Ukri zrcqi Pkxrkbik,
-  hdxazpk pkzmp Irzik jmgcq mzhkgk Qkgukz
-  lxrkhhi
-  mzj pkzmp Bxmi ndgqazjkz rhi,
-  yri jky org lmkg krzazjkg jrcqikz wdkzzkz
-  aml Bxakiikgz jkh Bamykh,
+  ***Bklmkgcqik jrk Ukri zrcqi Pkxrkbik, \n
+  hdxazpk pkzmp Irzik jmgcq mzhkgk Qkgukz \n
+  lxrkhhi \n
+  mzj pkzmp Bxmi ndgqazjkz rhi, \n
+  yri jky org lmkg krzazjkg jrcqikz wdkzzkz \n
+  aml Bxakiikgz jkh Bamykh, \n
   jkz org jah Xkbkz um zkzzkz elxkpkz.***
 
 The path I chose to take in solving the ridle was to go over the forms of the words. As I already knew that the text was in german, I tried a dictionary attack, where I would go and lookup all the possible words for a given form. As an example, the code would take the input 'zkzzkz' and try to find any word in the german language that had the form *121121* where the second and the fifth letter was the same and were the only different letters in the word.
