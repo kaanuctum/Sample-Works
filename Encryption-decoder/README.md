@@ -1,4 +1,4 @@
-# Encryption decoder
+# Simple Substitution Cipher decoder
 
 A project for solving a riddle published in our highschool's monthly magazine.
 The main premise of the riddle was that a german text was encrypted, by swapping each character of the alphabet with another random one, but keeping a consistent link between words (e.g. all 'b's are replaced with an 'a')
