@@ -1,2 +1,4 @@
-# Exercises
-Sample projects Gathered troughout the years
+# Encryption decoder
+
+A project for solving a riddle published in our highschool's monthly magazine.
+
