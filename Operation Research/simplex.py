@@ -1,5 +1,5 @@
 #the simplex algorithm to find the optimal solution of a linear programm
-#its only the primal simplex --> I'm lazy
+#its only the primal simplex
 
 #getting the objective function
 while True:
