@@ -1,3 +1,7 @@
-# Code For operations research exercise
+# Operations Reseach - Solver samples
 
-Some code I wrote troughout the years, be it as a coding exercise to better understand the subject, or because I needed the functionality of the code to make another homework easier.
+## Simplex solver
+The simplex algorithm to find the optimal solution of a linear program.
+
+## SAT solvers
+solvers for SAT-3 to SAT-6
